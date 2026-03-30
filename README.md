@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a 22 yo Data Science student ans Software Developer from Leipzig, Germany. <br><br>I'm also working in R6 eSports and doing analytics work for an professional esports team
+I'm a 22 yo Data Science student andgithub.com/profile/Schmiddyyy Software Developer from Leipzig, Germany. <br><br>I'm also working in R6 eSports and doing analytics work for an professional esports team
 
 
 ## 🌐 Socials:
